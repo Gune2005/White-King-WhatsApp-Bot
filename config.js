@@ -42,23 +42,23 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94717303100'] //ur owner number
-global.ownername = "𝙄𝙉𝘿𝙐𝙒𝘼𝙍𝘼 𝘿𝙄𝙇𝙎𝙃𝘼𝙉"
-global.ytname = "YT: 👀" //ur yt chanel name
-global.socialm = "GitHub: Gune2005" //ur github or insta name
-global.location = "Sri Lanaka,maho" //ur location
+global.ownername = "© 𝘐.𝘕.𝘋.𝘜.𝘞.𝘈.𝘙.𝘈."
+global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
+global.socialm = "GitHub: udavinw" //ur github or insta name
+global.location = "Sri Lanaka" //ur location
 
 //bot bombdy
-global.botname = "ᴰᴵᴸˢᴴᴬᴺ 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝘉𝘖𝘛" //ur bot name
-global.websitex = "https://api.whatsapp.com/send?phone=+94717303100" //ur website
+global.botname = "White King WhatsApp Bot V-1" //ur bot name
+global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/XzaRCsA.mp4' } //gif and video menu
-global.packname = "𝘋𝘐𝘓𝘚𝘏𝘈𝘕 𝘉𝘖𝘛 𝘚𝘛𝘐𝘊𝘒𝘌𝘙🦄🦄🦄 "
-global.author = "𝘐𝘕𝘋𝘜𝘞𝘈𝘙𝘈 𝘋𝘐𝘓𝘚𝘏𝘈𝘕"
+global.packname = "© 𝘐.𝘕.𝘋.𝘜.𝘞.𝘈.𝘙.𝘈.🦄🦄🦄 "
+global.author = "🦄© 𝘐.𝘕.𝘋.𝘜.𝘞.𝘈.𝘙.𝘈."
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['94717303100'] //ur owner tag
 global.ownernummenu = ['94717303100'] //ur owner number in menu and all
-global.watermark = "💔😒." //ur watermark
-global.botscript = "https://chat.whatsapp.com/BrtXpJn6NnkJHi1f3fDo2L"
+global.watermark = "UW TECH SHOW." //ur watermark
+global.botscript = "https://github.com/uwtechshow-official/White-King-WhatsApp-Bot"
 global.linkz1 = "https://chat.whatsapp.com/BrtXpJn6NnkJHi1f3fDo2L"
 global.linkz2 = "https://chat.whatsapp.com/FqqHk62RKwRCJYjiBgDACQ"
 
